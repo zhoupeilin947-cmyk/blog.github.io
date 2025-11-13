@@ -65,8 +65,8 @@ disqus: # fromendworld
 gitalk:
   clientID: Ov23lij6u227nGcmL8EW
   clientSecret: 8afc9e50a4ff7bbd1da6518718c5efe90d85a571
-  repo: zhoupeilinblog.github.io
-  owner: zhoupeilin
+  repo: blog.github.io
+  owner: zhoupeilin947-cmyk
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
