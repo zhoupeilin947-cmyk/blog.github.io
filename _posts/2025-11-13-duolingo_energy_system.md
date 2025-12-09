@@ -8,3 +8,5 @@ On July 3, 2025, Duolingo published an article titled "Why Duolingo switched to 
 - You earn 2 units of energy upon completing a lesson.
 - Energy automatically restores over time, taking about a day.
 - Low on energy? You can watch an ad anytime to earn some energy, or use gems to purchase an energy refill.
+
+https://familypro.io/en/blog/duolingo-energy-system
